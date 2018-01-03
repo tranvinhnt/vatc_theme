@@ -1,0 +1,16 @@
+[30-Sep-2017 14:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/vtac494a/public_html/wp-content/themes/iodtheme-vatc/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vtac494a/public_html/wp-content/themes/iodtheme-vatc/header.php on line 2
+[30-Sep-2017 14:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/vtac494a/public_html/wp-content/themes/iodtheme-vatc/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vtac494a/public_html/wp-content/themes/iodtheme-vatc/header.php on line 2
+[17-Oct-2017 07:58:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/vtac494a/public_html/wp-content/themes/iodtheme-vatc/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vtac494a/public_html/wp-content/themes/iodtheme-vatc/header.php on line 2
+[17-Oct-2017 07:58:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/vtac494a/public_html/wp-content/themes/iodtheme-vatc/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vtac494a/public_html/wp-content/themes/iodtheme-vatc/header.php on line 2
